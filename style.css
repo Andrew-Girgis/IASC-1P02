@@ -1,0 +1,22 @@
+#wrapper{
+  color: white;
+background-color: green;
+}
+body{
+  background-color: white;
+}
+#header{
+  background-color: red;
+  height: 100px;
+  text-align: center;
+}
+#content{
+background-color: green;
+float: left;
+height: 600px;
+}
+#footer{
+  background-color: blue;
+  height: 100px;
+  clear: left;
+  }
